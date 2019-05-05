@@ -48,7 +48,7 @@ public class App {
 ```
 Using try catch block code runs smoothly and catch block handls excption. the **e** object include the exception information. you can use **e.getMessage()** for summarize the output message or use **e.printStackTrace()** for better representation.
 
-## Excption throw
+## Exception throw
 Sometimes programmers does not handle their exceptions, they can demand the user of their method for handling exception. in this case user must surround method in try catch block. like the example programmer should use **throws Exception** after declaring method that includes exception. without using try catch block programmer gets a compile error.
 ```
 package Exception;
@@ -71,3 +71,4 @@ public class App3 {
 
 }
 ```
+## Create a new exception
