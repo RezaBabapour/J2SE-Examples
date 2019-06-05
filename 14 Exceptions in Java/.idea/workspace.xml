@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71a03128-8a73-4076-a2a5-8643ba05f2c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exception/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/Exceptions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/out/production/Exceptions/Exception/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/src/Exception/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/src/Exception/App2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exceptions in Java/src/Exception/App3.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21 GUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21 GUI/src/app/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21 GUI/src/app/main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/App3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/App3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/App4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/App4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exception/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exception/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/Conversion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/Conversion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 Data conversion/src/conversion/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../16 Data conversion/src/conversion/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 Annotation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18 Annotation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 Annotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18 Annotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 Annotation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18 Annotation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 Annotation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../18 Annotation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 Annotation/Annotation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../18 Annotation/Annotation.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="570">
               <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
@@ -41,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/App2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="722">
               <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
@@ -50,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/App3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="722">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -59,11 +72,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Exception/MyException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="114">
               <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
               <folding>
                 <element signature="e#96#97#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exception/App4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="418">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -113,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,10 +148,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556438015257" />
@@ -236,17 +250,19 @@
       <workItem from="1556422851856" duration="3064000" />
       <workItem from="1556429868693" duration="3419000" />
       <workItem from="1556436254661" duration="1431000" />
+      <workItem from="1559459847263" duration="14000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10617000" />
+    <option name="totallyTimeSpent" value="10631000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="134" y="39" width="3706" height="2121" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25955734" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,40 +300,40 @@
     <entry file="file://$PROJECT_DIR$/src/App/Run.java" />
     <entry file="file://$PROJECT_DIR$/src/Exception/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="570">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/App2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="722">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/App3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="722">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="114">
           <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
           <folding>
             <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exception/App4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="418">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
