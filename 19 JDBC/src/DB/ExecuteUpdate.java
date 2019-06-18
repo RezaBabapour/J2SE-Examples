@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-public class main {
+public class ExecuteUpdate {
     public static void main(String[] args) throws Exception {
         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:42333/?user=root&password=root");
         Statement statement = con.createStatement();
